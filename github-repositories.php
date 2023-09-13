@@ -1,6 +1,6 @@
 <?php
-// Replace 'YOUR_GITHUB_TOKEN' with your actual GitHub Personal Access Token.
-$token = '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';
+// Replace 'personal_access_token' with your actual GitHub Personal Access Token.
+$token = 'personal_access_token';
 
 $githubUsername = $_GET['username'] ?? 'kjagannathreddy';
 
